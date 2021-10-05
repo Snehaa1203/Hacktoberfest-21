@@ -96,8 +96,13 @@ var participants =
   "name":"Yash Gupta",
   "intro":"MERN Stack Developer | Freelancer | Competitve Coder",
   "quote":"Code is Life"
+},
+{
+"github":"Snehaa1203",
+"name":"Sneha Sachdeva",
+"intro":"Backend Developer | Freelancer | Tech Enthusiast",
+"quote":"Ask how something can be done rather than saying it can't be done"
 }
-
   
 ]
 
